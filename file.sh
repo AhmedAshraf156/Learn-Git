@@ -1,0 +1,22 @@
+echo "Hello Form linux"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
